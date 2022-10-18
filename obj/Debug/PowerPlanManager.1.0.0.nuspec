@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PowerPlanManager</id>
+    <version>1.0.0</version>
+    <authors>PowerPlanManager</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows10.0.17763">
+        <dependency id="System.Text.Encoding.CodePages" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows10.0.17763">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Programming\PowerPlanManager\PowerPlanManager\bin\Debug\net6.0-windows10.0.17763.0\PowerPlanManager.runtimeconfig.json" target="lib\net6.0-windows10.0.17763\PowerPlanManager.runtimeconfig.json" />
+    <file src="C:\Programming\PowerPlanManager\PowerPlanManager\bin\Debug\net6.0-windows10.0.17763.0\PowerPlanManager.dll" target="lib\net6.0-windows10.0.17763\PowerPlanManager.dll" />
+  </files>
+</package>
