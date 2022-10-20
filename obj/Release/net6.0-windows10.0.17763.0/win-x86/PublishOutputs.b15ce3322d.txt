@@ -1,0 +1,2 @@
+C:\Programming\power-plan-manager\bin\publish\PowerPlanManager.pdb
+C:\Programming\power-plan-manager\bin\publish\PowerPlanManager.exe
