@@ -16,4 +16,4 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = PowerPlanManager
-build_property.ProjectDir = C:\Programming\PowerPlanManager\PowerPlanManager\
+build_property.ProjectDir = C:\Programming\power-plan-manager\

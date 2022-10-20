@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zyjdmail55OEuaTwU8KFM7xw3SmDFzKKv+2SYACxYs20VCNccFHFdALNN03UrL8OqLkaYTbbEYRmsW9lhMmjAQ==",
+  "dgSpecHash": "We+MP4jlKV/8IIZ3vOEFsfakwzs/Tr+6RgxkSo4nxpWq2m5l7qgdAHiLAcKtACA6r0KmIZ5NLCe418ZICLLvBg==",
   "success": true,
-  "projectFilePath": "C:\\Programming\\PowerPlanManager\\PowerPlanManager\\PowerPlanManager.csproj",
+  "projectFilePath": "C:\\Programming\\power-plan-manager\\PowerPlanManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sromo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\sromo\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",

@@ -53,13 +53,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="PowerPlanManager.exe" size="24113798">
+  <file name="PowerPlanManager.exe" size="24128134">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Sck913V5yz0XjGBcoNMS1dmXyvcJW3ASK10Jp+yi8eo=</dsig:DigestValue>
+      <dsig:DigestValue>lrtkSb/KElIyHRorwofFhaZmbuTKgjBRUhfWwU4N7zc=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

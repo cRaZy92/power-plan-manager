@@ -114,11 +114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programming\\PowerPlanManager\\PowerPlanManager\\PowerPlanManager.csproj",
+      "projectUniqueName": "C:\\Programming\\power-plan-manager\\PowerPlanManager.csproj",
       "projectName": "PowerPlanManager",
-      "projectPath": "C:\\Programming\\PowerPlanManager\\PowerPlanManager\\PowerPlanManager.csproj",
+      "projectPath": "C:\\Programming\\power-plan-manager\\PowerPlanManager.csproj",
       "packagesPath": "C:\\Users\\sromo\\.nuget\\packages\\",
-      "outputPath": "C:\\Programming\\PowerPlanManager\\PowerPlanManager\\obj\\",
+      "outputPath": "C:\\Programming\\power-plan-manager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sromo\\AppData\\Roaming\\NuGet\\NuGet.Config",
