@@ -11,4 +11,5 @@ This app takes the power plans from the windows so if you want to add, modify or
 Download latest release, run it and you should see icon appear in the tray.
 
 To see currently active power plan, hover over the icon.
+
 To change the power plan, right click on the icon and then choose from the list.
