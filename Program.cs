@@ -1,5 +1,4 @@
 using PowerPlanManager.Properties;
-using System.Globalization;
 using System.Text;
 
 namespace PowerPlanManager
@@ -100,9 +99,9 @@ namespace PowerPlanManager
             pProcess.StartInfo.Arguments = arguments;
             pProcess.StartInfo.UseShellExecute = false;
             pProcess.StartInfo.CreateNoWindow = true;
-            pProcess.StartInfo.StandardOutputEncoding = Encoding.GetEncoding(CultureInfo.CurrentCulture.TextInfo.OEMCodePage);
             pProcess.StartInfo.RedirectStandardOutput = true;
             pProcess.Start();
+
             //Get program output
             string output = pProcess.StandardOutput.ReadToEnd();
 
