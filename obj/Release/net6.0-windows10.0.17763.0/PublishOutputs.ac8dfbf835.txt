@@ -1,0 +1,7 @@
+B:\Windows\Desktop\New folder\PowerPlanManager.exe
+B:\Windows\Desktop\New folder\PowerPlanManager.dll
+B:\Windows\Desktop\New folder\PowerPlanManager.deps.json
+B:\Windows\Desktop\New folder\PowerPlanManager.runtimeconfig.json
+B:\Windows\Desktop\New folder\PowerPlanManager.pdb
+B:\Windows\Desktop\New folder\Microsoft.Windows.SDK.NET.dll
+B:\Windows\Desktop\New folder\WinRT.Runtime.dll

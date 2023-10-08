@@ -1,0 +1,7 @@
+B:\Windows\Desktop\New folder\PowerPlanManager.pdb
+B:\Windows\Desktop\New folder\D3DCompiler_47_cor3.dll
+B:\Windows\Desktop\New folder\PenImc_cor3.dll
+B:\Windows\Desktop\New folder\PresentationNative_cor3.dll
+B:\Windows\Desktop\New folder\vcruntime140_cor3.dll
+B:\Windows\Desktop\New folder\wpfgfx_cor3.dll
+B:\Windows\Desktop\New folder\PowerPlanManager.exe
